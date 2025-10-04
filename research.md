@@ -13,7 +13,7 @@ pubs:
       url:     "https://doi.org/10.1017/prm.2024.112"
       doi:     "https://doi.org/10.1017/prm.2024.112"
       arXiv:   "https://arxiv.org/abs/2402.18524"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      image:   "https://static.cambridge.org/covers/PRM_0_0_0/proceedings_of%20the%20royal%20society%20of%20edinburgh%20section%20a:%20mathematics.jpg?send-full-size-image=true"
       media:
         - name: ""
           url:  ""
