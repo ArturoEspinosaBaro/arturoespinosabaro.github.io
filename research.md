@@ -123,9 +123,7 @@ I am new member of the research group of analytic and geometric group theory at 
 [**{{thesis.title}}**]({% if thesis.internal %}{{thesis.url | prepend: site.baseurl}}{% else %}{{thesis.url}}{% endif %})<br />
 {{thesis.author}}<br />
 *{{thesis.abstract}}*<br />
-{% if thesis.note %} *({{thesis.note}})*
-{% endif %} *{{thesis.year}}* {% if thesis.doi %}[[doi]({{thesis.doi}})]{% endif %} {% if thesis.arXiv %}[[arXiv]({{thesis.arXiv}})]{% endif %}
-{% if thesis.media %}<br />Media: {% for article in thesis.media %}[[{{thesis.name}}]({{thesis.url}})]{% endfor %}{% endif %}
+*{{thesis.year}}*
 
 {% endfor %}
 
