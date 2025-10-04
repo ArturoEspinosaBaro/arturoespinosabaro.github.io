@@ -64,8 +64,10 @@ Currently, I am also very interested to engage more with **category theory** too
 
 I was the principal investigator of the Polish National Center of Science grant 2022/45/N/ST1/02814 PRELUDIUM. 
 
+I am new member of the research group of analytic and geometric group theory at IMPAN, led by Piotr Nowak, [check the seminar!](https://sites.google.com/view/group-theory-seminar-at-impan/home).
 
-Below you have a list of my different papers, either already published or in submission or preparation. Please notice that, for the published ones, the final version and the current arXiv manuscript may significantly differ. 
+
+<em> Below you have a list of my different papers, either already published or in submission or preparation. Please notice that, for the published ones, the final version and the current arXiv manuscript may significantly differ. </em>
 
 ## Publications
 
