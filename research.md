@@ -72,7 +72,8 @@ My main research interests fit mostly inside the broader field of **Algebraic To
 
 Currently, I am also very interested to engage more with **category theory** tools and problems in **geometric topology** and **geometric group theory**. At any case, I am always eager to learn and discuss new topics, so feel free to reach!
 
-I was the principal investigator of the Polish National Center of Science grant 2022/45/N/ST1/02814 PRELUDIUM. 
+I was the principal investigator of the Polish National Center of Science grant <a href="https://arturoespinosabaro.github.io/research/ncn-preludium-21">2022/45/N/ST1/02814 PRELUDIUM</a>. 
+
 
 I am new member of the research group of analytic and geometric group theory at IMPAN, led by [Piotr Nowak](https://pnowak.impan.pl/), [check the seminar!](https://sites.google.com/view/group-theory-seminar-at-impan/home).
 
