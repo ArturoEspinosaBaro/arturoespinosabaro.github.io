@@ -56,6 +56,14 @@ prep:
       arXiv:   "https://arxiv.org/abs/2502.06670"
       image:   "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg"
 
+tesis:
+
+    - title:   "Topics on Topological Robotics: On topological complexity of Eilenberg-MacLane spaces and effective topological complexity"
+      abstract: "My thesis revolved around the study of the relationship between different category-like homotopy invariants (mainly sectional category and sequential topological complexity) and groups, through two different and complementary approaches: by studying such invariants of K(G,1)-spaces, and by investigating properties of a certain equivariant version of topological complexity of G-spaces, the effective TC of Błaszczyk and Kaluba. It was written under the supervision of [Wacław Marzantowicz](https://wmi.amu.edu.pl/wydzial/pracownicy/waclaw-marzantowicz). You can check the manuscript here, and the slides of the defense here. "
+      year:    "2024"
+      url:     "https://arxiv.org/abs/2502.06670"
+      arXiv:   "https://arxiv.org/abs/2502.06670"
+      image:   "https://amu.edu.pl/__data/assets/git_bridge/0020/510572/dist/mysource_files/uam-logo.png"
 ---
 
 My main research interests fit mostly inside the broader field of **Algebraic Topology** (leaning towards the more algebraic side). They include **homological algebra** and (equivariant and relative) **group cohomology**, **fusion systems**, and category-like homotopy invariants, such as **sectional category** and **topological complexity**. 
@@ -106,6 +114,18 @@ I am new member of the research group of analytic and geometric group theory at 
 
 ## Thesis
 
-My thesis revolved around the study of the relationship between different category-like homotopy invariants (mainly sectional category and sequential topological complexity) and groups, through two different and complementary approaches: by studying such invariants of K(G,1)-spaces, and by investigating properties of a certain equivariant version of topological complexity of G-spaces, the effective TC of Błaszczyk and Kaluba. 
+{% assign thumbnail="left" %}
 
-It was written under the supervision of [Wacław Marzantowicz](https://wmi.amu.edu.pl/wydzial/pracownicy/waclaw-marzantowicz). You can check the manuscript here, and the slides of the defense here. 
+{% for prep in page.prep %}
+{% if prep.image %}
+{% include image.html url=prep.image caption="" height="100px" align=thumbnail %}
+{% endif %}
+[**{{prep.title}}**]({% if prep.internal %}{{prep.url | prepend: site.baseurl}}{% else %}{{prep.url}}{% endif %})<br />
+{{prep.author}}<br />
+*{{prep.abstract}}*<br />
+{% if prep.note %} *({{prep.note}})*
+{% endif %} *{{prep.year}}* {% if prep.doi %}[[doi]({{prep.doi}})]{% endif %} {% if prep.arXiv %}[[arXiv]({{prep.arXiv}})]{% endif %}
+{% if prep.media %}<br />Media: {% for article in prep.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+
+{% endfor %}
+
