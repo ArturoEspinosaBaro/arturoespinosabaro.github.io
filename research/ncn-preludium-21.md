@@ -31,7 +31,7 @@ During my PhD studies in Adam Mickiewicz University I was principal investigator
 
 <p class="text-bold text-underline"> Results of the project </p>
 
-<p class="text-italic"> (You can see more details on the following papers in the section Research) </p>
+<p class="text-italic"> (You can see more details on the following papers in the section <a href="https://arturoespinosabaro.github.io/research/"> Research </a>) </p>
 
 <ul class="list-ooutcomes-NCN">
 <li>Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions.  with M. Farber, S. Mescher and J. Oprea.</li>
