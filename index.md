@@ -18,8 +18,8 @@ In this site you can find my contact information, a bit about my research, detai
   <section class="contact">
     <h2>Contact</h2>
     <p>Institute of Mathematics of the Polish Academy of Sciences <br />
-       Jana i Jędrzeja Śniadeckich 8, 00-656 Warszawa, Poland
-       <br />
+       Jana i Jędrzeja Śniadeckich 8, <br />
+        00-656 Warszawa, Poland <br />
        <a href="mailto:arturo.espinosabaro@gmail.com"> arturo.espinosabaro@gmail.com </a> 
        <a href="mailto:aespinosabaro@impan.pl"> aespinosabaro@impan.pl </a>
     </p>
