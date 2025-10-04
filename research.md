@@ -5,7 +5,7 @@ title: Research
 pubs:
 
     - title:   "On properties of Effective Topological Complexity and Effective Lusternik-Schnirelmann Category"
-      author:  "with Zbigniew Błaszczyk and Antonio Viruel."
+      author:  "with Zbigniew Błaszczyk and [Antonio Viruel](https://sites.google.com/view/antonio-viruel/p%C3%A1gina-principal)."
       journal: "Proceedings of the Royal Society of Edinburgh Section A: Mathematics (online)."
       abstract: "The notion of effective topological complexity, introduced by Błaszczyk and Kaluba, deals with using group actions in the configuration space in order to reduce the complexity of the motion planning algorithm. In this article we focus on studying several properties of such notion of topological complexity. We introduce a notion of effective LS-category which mimics the behaviour the usual LS-cat has in the non-effective setting. We use it to investigate the relationship between these effective invariants and the orbit map with respect of the group action, and we give numerous examples. Additionally, we investigate non-vanishing criteria based on a cohomological dimension bound of the saturated diagonal."
       year:    "2025"
