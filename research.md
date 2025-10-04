@@ -60,7 +60,8 @@ thesis:
 
     - title:   "Topics on Topological Robotics: On topological complexity of Eilenberg-MacLane spaces and effective topological complexity"
       university: "**Faculty of Mathematics and Computer Science, Adam Mickiewicz University in Poznan**"
-      abstract: "My thesis revolved around the study of the relationship between different category-like homotopy invariants (mainly sectional category and sequential topological complexity) and groups, through two different and complementary approaches: by studying such invariants of K(G,1)-spaces, and by investigating properties of a certain equivariant version of topological complexity of G-spaces, the effective TC of Błaszczyk and Kaluba. It was written under the supervision of [Wacław Marzantowicz](https://wmi.amu.edu.pl/wydzial/pracownicy/waclaw-marzantowicz). "
+      advisor: "supervised by [Wacław Marzantowicz](https://wmi.amu.edu.pl/wydzial/pracownicy/waclaw-marzantowicz)"
+      abstract: "My thesis revolved around the study of the relationship between different category-like homotopy invariants (mainly sectional category and sequential topological complexity) and groups, through two different and complementary approaches: by studying such invariants of K(G,1)-spaces, and by investigating properties of a certain equivariant version of topological complexity of G-spaces, the effective TC of Błaszczyk and Kaluba. "
       year:    "2024"
       url:     "https://drive.google.com/file/d/1cxdcvfKKgZBQi1sep8MZNbD2Bg4sRPpM/view?usp=drive_link"
       arXiv:   "https://arxiv.org/abs/2502.06670"
@@ -122,6 +123,7 @@ I am new member of the research group of analytic and geometric group theory at 
 {% include image.html url=thesis.image caption="" height="100px" align=thumbnail %}
 {% endif %}
 [**{{thesis.title}}**]({% if thesis.internal %}{{thesis.url | prepend: site.baseurl}}{% else %}{{thesis.url}}{% endif %})<br />
+{{thesis.advisor}}<br />
 {{thesis.author}}<br />
 *{{thesis.university}}*<br />
 {{thesis.abstract}}<br />
