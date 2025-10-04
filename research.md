@@ -54,7 +54,7 @@ prep:
       year:    "2025"
       url:     "https://arxiv.org/abs/2502.06670"
       arXiv:   "https://arxiv.org/abs/2502.06670"
-      image:   "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-one-color-white.svg"
+      image:   "https://upload.wikimedia.org/wikipedia/commons/7/7a/ArXiv_logo_2022.png"
 
 thesis:
 
