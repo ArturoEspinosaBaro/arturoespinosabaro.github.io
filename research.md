@@ -2,6 +2,14 @@
 layout: page
 permalink: /research/
 title: Research
+
+My main research interests fit mostly inside the broader field of Algebraic Topology (leaning towards the more algebraic side). They include homological algebra and (equivariant and relative) group cohomology, fusion systems, and category-like homotopy invariants, such as sectional category and topological complexity. Currently also interested to engage more with category theory tools and problems in geometric topology. At any case, I am always eager to learn and discuss new topics, so feel free to reach!
+
+I was the principal investigator of the Polish National Center of Science grant 2022/45/N/ST1/02814 PRELUDIUM. 
+
+
+Below you have a list of my different papers, either already published or in submission or preparation. Please notice that, for the published ones, the final version and the current arXiv manuscript may significantly differ. 
+
 pubs:
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
