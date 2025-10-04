@@ -4,19 +4,19 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
+    - title:   "On properties of Effective Topological Complexity and Effective Lusternik-Schnirelmann Category"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
+      journal: "Proceedings of the Royal Society of Edinburgh Section A: Mathematics (online)."
       abstract: "In this paper we characterize the sectional category of subgroup inclusions and the r-sequential topological complexity of aspherical spaces of a group G in terms of the A-genus in the sense of Clapp-Puppe and Bartsch for a suitable one-element family of G-spaces A, and we discuss some of the consequences of such characterization, including new ideas about notions of category-like invariants with respect to proper actions of groups."
-      note:    "(presented at Oz)"
-      year:    "2016"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      arXiv:   "https://arxiv.org/abs/2502.06670"
+      note:    ""
+      year:    "2025"
+      url:     "https://doi.org/10.1017/prm.2024.112"
+      doi:     "https://doi.org/10.1017/prm.2024.112"
+      arXiv:   "https://arxiv.org/abs/2402.18524"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+        - name: ""
+          url:  ""
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
@@ -82,7 +82,9 @@ prep:
           url:  "http://www.imdb.com/title/tt0133093/"
 ---
 
-My main research interests fit mostly inside the broader field of Algebraic Topology (leaning towards the more algebraic side). They include homological algebra and (equivariant and relative) group cohomology, fusion systems, and category-like homotopy invariants, such as sectional category and topological complexity. Currently also interested to engage more with category theory tools and problems in geometric topology. At any case, I am always eager to learn and discuss new topics, so feel free to reach!
+My main research interests fit mostly inside the broader field of Algebraic Topology (leaning towards the more algebraic side). They include homological algebra and (equivariant and relative) group cohomology, fusion systems, and category-like homotopy invariants, such as sectional category and topological complexity. 
+
+Currently, I am also very interested to engage more with category theory tools and problems in geometric topology and geometric group theory. At any case, I am always eager to learn and discuss new topics, so feel free to reach!
 
 I was the principal investigator of the Polish National Center of Science grant 2022/45/N/ST1/02814 PRELUDIUM. 
 
