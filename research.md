@@ -116,16 +116,16 @@ I am new member of the research group of analytic and geometric group theory at 
 
 {% assign thumbnail="left" %}
 
-{% for prep in page.prep %}
-{% if prep.image %}
-{% include image.html url=prep.image caption="" height="100px" align=thumbnail %}
+{% for thesis in page.thesis %}
+{% if thesis.image %}
+{% include image.html url=thesis.image caption="" height="100px" align=thumbnail %}
 {% endif %}
-[**{{prep.title}}**]({% if prep.internal %}{{prep.url | prepend: site.baseurl}}{% else %}{{prep.url}}{% endif %})<br />
-{{prep.author}}<br />
-*{{prep.abstract}}*<br />
-{% if prep.note %} *({{prep.note}})*
-{% endif %} *{{prep.year}}* {% if prep.doi %}[[doi]({{prep.doi}})]{% endif %} {% if prep.arXiv %}[[arXiv]({{prep.arXiv}})]{% endif %}
-{% if prep.media %}<br />Media: {% for article in prep.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+[**{{thesis.title}}**]({% if thesis.internal %}{{thesis.url | prepend: site.baseurl}}{% else %}{{thesis.url}}{% endif %})<br />
+{{thesis.author}}<br />
+*{{thesis.abstract}}*<br />
+{% if thesis.note %} *({{thesis.note}})*
+{% endif %} *{{thesis.year}}* {% if thesis.doi %}[[doi]({{thesis.doi}})]{% endif %} {% if thesis.arXiv %}[[arXiv]({{thesis.arXiv}})]{% endif %}
+{% if thesis.media %}<br />Media: {% for article in thesis.media %}[[{{thesis.name}}]({{thesis.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
 
