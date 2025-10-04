@@ -27,7 +27,7 @@ In this site you can find my contact information, a bit about my research, detai
   </section>
 
   <section class="profile">
-    <h2>Profile</h2>
+    <h2>Profiles</h2>
     <ul class="social-links">
       <li><a href="https://orcid.org/0000-0003-0184-6211" target="_blank">ORCID</a></li>
       <li><a href="https://www.researchgate.net/profile/Arturo-Espinosa-Baro" target="_blank">ResearchGate</a></li>
