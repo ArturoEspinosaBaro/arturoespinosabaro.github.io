@@ -127,7 +127,6 @@ I am new member of the research group of analytic and geometric group theory at 
 {{thesis.author}}<br />
 *{{thesis.university}}*<br />
 {{thesis.abstract}}<br />
-{{thesis.year}}
 
 {% endfor %}
 

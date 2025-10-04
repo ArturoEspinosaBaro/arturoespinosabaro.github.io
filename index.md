@@ -16,7 +16,7 @@ permalink: /
 
 In this site you can find my contact information, a bit about my research, details about my previous funding and also a link to my CV.
 
-
+<div>
 ## Contact
 
 Institute of Mathematics of the Polish Academy of Sciences <br />
@@ -31,7 +31,7 @@ Email: [arturo.espinosabaro@gmail.com], [aespinosabaro@impan.pl]
 [zbMATH Open](https://zbmath.org/authors/espinosa-baro.arturo) <br />
 [Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1251001) <br />
 
-
+</div>
 
 
 
