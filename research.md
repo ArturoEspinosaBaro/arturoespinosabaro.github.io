@@ -58,9 +58,9 @@ prep:
 
 ---
 
-My main research interests fit mostly inside the broader field of Algebraic Topology (leaning towards the more algebraic side). They include homological algebra and (equivariant and relative) group cohomology, fusion systems, and category-like homotopy invariants, such as sectional category and topological complexity. 
+My main research interests fit mostly inside the broader field of **Algebraic Topology** (leaning towards the more algebraic side). They include **homological algebra** and (equivariant and relative) **group cohomology**, **fusion systems**, and category-like homotopy invariants, such as **sectional category** and **topological complexity**. 
 
-Currently, I am also very interested to engage more with category theory tools and problems in geometric topology and geometric group theory. At any case, I am always eager to learn and discuss new topics, so feel free to reach!
+Currently, I am also very interested to engage more with **category theory** tools and problems in **geometric topology** and **geometric group theory**. At any case, I am always eager to learn and discuss new topics, so feel free to reach!
 
 I was the principal investigator of the Polish National Center of Science grant 2022/45/N/ST1/02814 PRELUDIUM. 
 
