@@ -20,7 +20,7 @@ $orange:     #ca6c18;
 $red:        #b6321c;
 
 $background:        $grey-vlight;
-$dark-background:   darken($background, 5%);
+$dark-background:   darken($background, 25%);
 $text-color:        $grey-vdark;
 $text-light-color:  $grey;
 $url-color:         $red;
@@ -54,7 +54,7 @@ $desktop:          50em;
 ;
 
 #contact {
-    margin-top: 21dvh;
+    margin-top: 23dvh;
 }
 
 .sub-menu {
