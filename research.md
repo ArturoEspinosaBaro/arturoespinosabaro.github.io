@@ -63,7 +63,7 @@ thesis:
       year:    "2024"
       url:     "https://arxiv.org/abs/2502.06670"
       arXiv:   "https://arxiv.org/abs/2502.06670"
-      image:   "https://amu.edu.pl/__data/assets/git_bridge/0020/510572/dist/mysource_files/uam-logo.png"
+      image:   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyuH_18BpG2OGrWxQ8pHOFvtiEDtrwbwakA&s"
 ---
 
 My main research interests fit mostly inside the broader field of **Algebraic Topology** (leaning towards the more algebraic side). They include **homological algebra** and (equivariant and relative) **group cohomology**, **fusion systems**, and category-like homotopy invariants, such as **sectional category** and **topological complexity**. 
