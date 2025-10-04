@@ -59,9 +59,9 @@ prep:
 thesis:
 
     - title:   "Topics on Topological Robotics: On topological complexity of Eilenberg-MacLane spaces and effective topological complexity"
-      abstract: "My thesis revolved around the study of the relationship between different category-like homotopy invariants (mainly sectional category and sequential topological complexity) and groups, through two different and complementary approaches: by studying such invariants of K(G,1)-spaces, and by investigating properties of a certain equivariant version of topological complexity of G-spaces, the effective TC of Błaszczyk and Kaluba. It was written under the supervision of [Wacław Marzantowicz](https://wmi.amu.edu.pl/wydzial/pracownicy/waclaw-marzantowicz). You can check the manuscript here, and the slides of the defense here. "
+      abstract: "My thesis revolved around the study of the relationship between different category-like homotopy invariants (mainly sectional category and sequential topological complexity) and groups, through two different and complementary approaches: by studying such invariants of K(G,1)-spaces, and by investigating properties of a certain equivariant version of topological complexity of G-spaces, the effective TC of Błaszczyk and Kaluba. It was written under the supervision of [Wacław Marzantowicz](https://wmi.amu.edu.pl/wydzial/pracownicy/waclaw-marzantowicz). "
       year:    "2024"
-      url:     "https://arxiv.org/abs/2502.06670"
+      url:     "https://drive.google.com/file/d/1cxdcvfKKgZBQi1sep8MZNbD2Bg4sRPpM/view?usp=drive_link"
       arXiv:   "https://arxiv.org/abs/2502.06670"
       image:   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyuH_18BpG2OGrWxQ8pHOFvtiEDtrwbwakA&s"
 ---
