@@ -65,6 +65,20 @@ pubs:
         - name: "IMDB"
           url:  "http://www.imdb.com/title/tt0133093/"
 
+prep:
+
+    - title:   "Paper title in 3-7 words that sound like Clingon"
+      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
+      journal: "Transactions on Black Magic"
+      note:    "(presented at Oz)"
+      year:    "2016"
+      url:     "http://publish-more-stuff.org"
+      doi:     "http://dx.doi.org"
+      arXiv:   "https://arxiv.org/abs/2502.06670"
+      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      media:
+        - name: "IMDB"
+          url:  "http://www.imdb.com/title/tt0133093/"
 ---
 
 My main research interests fit mostly inside the broader field of Algebraic Topology (leaning towards the more algebraic side). They include homological algebra and (equivariant and relative) group cohomology, fusion systems, and category-like homotopy invariants, such as sectional category and topological complexity. Currently also interested to engage more with category theory tools and problems in geometric topology. At any case, I am always eager to learn and discuss new topics, so feel free to reach!
@@ -90,3 +104,22 @@ Below you have a list of my different papers, either already published or in sub
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
+
+## Preprints
+
+{% assign thumbnail="left" %}
+
+{% for prep in page.prep %}
+{% if prep.image %}
+{% include image.html url=prep.image caption="" height="100px" align=thumbnail %}
+{% endif %}
+[**{{prep.title}}**]({% if prep.internal %}{{prep.url | prepend: site.baseurl}}{% else %}{{prep.url}}{% endif %})<br />
+{{prep.author}}<br />
+*{{prep.journal}}*
+{% if prep.note %} *({{prep.note}})*
+{% endif %} *{{prep.year}}* {% if prep.doi %}[[doi]({{prep.doi}})]{% endif %} {% if prep.arXiv %}[[arXiv]({{prep.arXiv}})]{% endif %}
+{% if prep.media %}<br />Media: {% for article in prep.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
+
+{% endfor %}
+
+## Thesis
