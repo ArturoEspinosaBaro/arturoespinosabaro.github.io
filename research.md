@@ -7,7 +7,7 @@ pubs:
     - title:   "Paper title in 3-7 words that sound like Clingon"
       author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
       journal: "Transactions on Black Magic"
-      abstract: "In this paper we characterize the sectional category of subgroup inclusions and the -sequential topological complexity of aspherical spaces of a group G in terms of the A-genus in the sense of Clapp-Puppe and Bartsch for a suitable one-element family of G-spaces A, and we discuss some of the consequences of such characterization, including new ideas about notions of category-like invariants with respect to proper actions of groups."
+      abstract: "In this paper we characterize the sectional category of subgroup inclusions and the r-sequential topological complexity of aspherical spaces of a group G in terms of the A-genus in the sense of Clapp-Puppe and Bartsch for a suitable one-element family of G-spaces A, and we discuss some of the consequences of such characterization, including new ideas about notions of category-like invariants with respect to proper actions of groups."
       note:    "(presented at Oz)"
       year:    "2016"
       url:     "http://publish-more-stuff.org"
@@ -99,8 +99,8 @@ Below you have a list of my different papers, either already published or in sub
 {% endif %}
 [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})<br />
 {{pub.author}}<br />
-*{{pub.journal}}*
-*{{pub.abstract}}*
+*{{pub.journal}}*<br />
+*{{pub.abstract}}*<br />
 {% if pub.note %} *({{pub.note}})*
 {% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} {% if pub.arXiv %}[[arXiv]({{pub.arXiv}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
@@ -117,8 +117,8 @@ Below you have a list of my different papers, either already published or in sub
 {% endif %}
 [**{{prep.title}}**]({% if prep.internal %}{{prep.url | prepend: site.baseurl}}{% else %}{{prep.url}}{% endif %})<br />
 {{prep.author}}<br />
-*{{prep.journal}}*
-*{{prep.abstract}}*
+*{{prep.journal}}*<br />
+*{{prep.abstract}}*<br />
 {% if prep.note %} *({{prep.note}})*
 {% endif %} *{{prep.year}}* {% if prep.doi %}[[doi]({{prep.doi}})]{% endif %} {% if prep.arXiv %}[[arXiv]({{prep.arXiv}})]{% endif %}
 {% if prep.media %}<br />Media: {% for article in prep.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
