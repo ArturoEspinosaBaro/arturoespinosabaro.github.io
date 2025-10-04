@@ -31,7 +31,7 @@ In this site you can find my contact information, a bit about my research, detai
     <ul class="social-links">
       <li><a href="https://orcid.org/0000-0003-0184-6211" target="_blank">ORCID</a></li>
       <li><a href="https://www.researchgate.net/profile/Arturo-Espinosa-Baro" target="_blank">ResearchGate</a></li>
-      <li><a href="https://zbmath.org/authors/espinosa-baro.arturo" target="_blank">zbMATH Open</a></li>
+      <li><a href="https://zbmath.org/authors/espinosa-baro.arturo" target="_blank">zbMATH</a></li>
       <li><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1251001" target="_blank">Mathscinet</a></li>
     </ul>
   </section>
