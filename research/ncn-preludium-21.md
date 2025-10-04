@@ -32,9 +32,14 @@ Results of the project:
 (You can see more details on the following papers in the section Research)
 
 <ul class="list-ooutcomes-NCN">
-<li>Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions.  with M. Farber, S. Mescher and J. Oprea.<li>
+<li>Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions.  with M. Farber, S. Mescher and J. Oprea.</li>
 
-<li>On properties of effective topological complexity and effective Lusternik-Schnirelmann category. with Z. Błaszczyk and A. Viruel.<li>
+<li>On properties of effective topological complexity and effective Lusternik-Schnirelmann category. with Z. Błaszczyk and A. Viruel.</li>
 
-<li>Sectional category of subgroup inclusions and sequential topological complexities of aspherical spaces as A-genus.<li>
+<li>Sectional category of subgroup inclusions and sequential topological complexities of aspherical spaces as A-genus.</li>
 </ul>
+
+
+You can access the official entry of this grant in the NCN database following the next LINK.
+
+<img src="../images/NCN.png" alt="Logo of NCN"> 
