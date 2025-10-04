@@ -5,8 +5,8 @@ title: Research
 pubs:
 
     - title:   "On properties of Effective Topological Complexity and Effective Lusternik-Schnirelmann Category"
-      author:  "with Zbigniew Błaszczyk and [Antonio Viruel](https://sites.google.com/view/antonio-viruel/p%C3%A1gina-principal)."
-      journal: "Proceedings of the Royal Society of Edinburgh Section A: Mathematics (online)."
+      author:  "with [Zbigniew Błaszczyk](https://www.researchgate.net/profile/Zbigniew-Blaszczyk) and [Antonio Viruel](https://sites.google.com/view/antonio-viruel/p%C3%A1gina-principal)."
+      journal: "**Proceedings of the Royal Society of Edinburgh Section A: Mathematics** (online)."
       abstract: "The notion of effective topological complexity, introduced by Błaszczyk and Kaluba, deals with using group actions in the configuration space in order to reduce the complexity of the motion planning algorithm. In this article we focus on studying several properties of such notion of topological complexity. We introduce a notion of effective LS-category which mimics the behaviour the usual LS-cat has in the non-effective setting. We use it to investigate the relationship between these effective invariants and the orbit map with respect of the group action, and we give numerous examples. Additionally, we investigate non-vanishing criteria based on a cohomological dimension bound of the saturated diagonal."
       year:    "2025"
       url:     "https://doi.org/10.1017/prm.2024.112"
@@ -15,8 +15,8 @@ pubs:
       image:   "https://static.cambridge.org/covers/PRM_0_0_0/proceedings_of%20the%20royal%20society%20of%20edinburgh%20section%20a:%20mathematics.jpg?send-full-size-image=true"
 
     - title:   "Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions"
-      author:  "with Michael Farber, Stephan Mescher and John Oprea."
-      journal: "Mathematische Annalen 391 Issue 3 4555-4605."
+      author:  "with [Michael Farber](https://www.qmul.ac.uk/maths/profiles/farberm.html), [Stephan Mescher](https://www.researchgate.net/profile/Stephan-Mescher) and [John Oprea](https://www.researchgate.net/profile/John-Oprea)."
+      journal: "**Mathematische Annalen** 391 Issue 3 4555-4605."
       abstract: "We generalize results from topological robotics on the topological complexity (TC) of aspherical spaces to sectional categories of fibrations inducing subgroup inclusions on the level of fundamental groups. In doing so, we establish new lower bounds on sequential TCs of aspherical spaces as well as the parametrized TC of epimorphisms. Moreover, we generalize the Costa–Farber canonical class for TC to classes for sequential TCs and explore their properties. We combine them with the results on sequential TCs of aspherical spaces to obtain results on spaces that are not necessarily aspherical."
       year:    "2025"
       url:     "https://link.springer.com/article/10.1007/s00208-024-03033-1"
@@ -25,8 +25,8 @@ pubs:
       image:   "https://media.springernature.com/w316/springer-static/cover-hires/journal/208?as=webp"
 
     - title:   "On the sectional category of subgroup inclusions and Adamson cohomology theory" 
-      author:  "with Zbigniew Błaszczyk and José Gabriel Carrasquel-Vera."
-      journal: "Journal of Pure and Applied Algebra, 226 Issue 6 106959."
+      author:  "with [Zbigniew Błaszczyk](https://www.researchgate.net/profile/Zbigniew-Blaszczyk) and [José Gabriel Carrasquel-Vera](https://www.researchgate.net/profile/Jose-Carrasquel-Vera)."
+      journal: "**Journal of Pure and Applied Algebra**, 226 Issue 6 106959."
       abstract: "The sectional category of a subgroup inclusion can be defined as the sectional category of the corresponding map between Eilenberg--MacLane spaces. We extend a characterization of topological complexity of aspherical spaces given by Farber, Grant, Lupton and Oprea to the context of sectional category of subgroup inclusions and investigate it by means of Adamson cohomology theory."
       year:    "2022"
       url:     "https://www.sciencedirect.com/science/article/pii/S0022404921003005"
@@ -35,8 +35,8 @@ pubs:
       image:   "https://ars.els-cdn.com/content/image/X00224049.jpg"
 
     - title:   "A cohomological characterization of nilpotent fusion systems"
-      author:  "with Antonio Díaz Ramos and Antonio Viruel."
-      journal: "Proceedings of the American Mathematical Society, 146, 1447-1450."
+      author:  "with [Antonio Díaz Ramos](https://sites.google.com/view/antonio-diaz-ramos/) and [Antonio Viruel](https://sites.google.com/view/antonio-viruel/p%C3%A1gina-principal)."
+      journal: "**Proceedings of the American Mathematical Society**, 146, 1447-1450."
       abstract: "We provide a nilpotency criterion for fusion systems in terms of the vanishing of its cohomology with twisted coefficients."
       year:    "2018"
       url:     "https://www.ams.org/journals/proc/2018-146-04/S0002-9939-2017-13884-2/"
@@ -95,7 +95,6 @@ Below you have a list of my different papers, either already published or in sub
 {% endif %}
 [**{{prep.title}}**]({% if prep.internal %}{{prep.url | prepend: site.baseurl}}{% else %}{{prep.url}}{% endif %})<br />
 {{prep.author}}<br />
-*{{prep.journal}}*<br />
 *{{prep.abstract}}*<br />
 {% if prep.note %} *({{prep.note}})*
 {% endif %} *{{prep.year}}* {% if prep.doi %}[[doi]({{prep.doi}})]{% endif %} {% if prep.arXiv %}[[arXiv]({{prep.arXiv}})]{% endif %}
