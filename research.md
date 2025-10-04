@@ -11,6 +11,7 @@ pubs:
       year:    "2016"
       url:     "http://publish-more-stuff.org"
       doi:     "http://dx.doi.org"
+      arXiv:   "https://arxiv.org/abs/2502.06670"
       image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       media:
         - name: "IMDB"
@@ -73,7 +74,7 @@ I was the principal investigator of the Polish National Center of Science grant 
 
 Below you have a list of my different papers, either already published or in submission or preparation. Please notice that, for the published ones, the final version and the current arXiv manuscript may significantly differ. 
 
-## Publications (peer reviewed)
+## Publications
 
 {% assign thumbnail="left" %}
 
@@ -85,7 +86,7 @@ Below you have a list of my different papers, either already published or in sub
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} *{{pub.year}}* {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %} {% if pub.arXiv %}[[arXiv]({{pub.arXiv}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
