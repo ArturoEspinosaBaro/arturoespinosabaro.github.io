@@ -12,28 +12,29 @@ permalink: /
 
 
 
-
-
 In this site you can find my contact information, a bit about my research, details about my previous funding and also a link to my CV.
 
-{% include flex-section.html %}
-## Contact
+<div class="flex-container">
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Institute of Mathematics of the Polish Academy of Sciences <br />
+       Jana i Jędrzeja Śniadeckich 8, 00-656 Warszawa, Poland
+       <br />
+       <a href="mailto:arturo.espinosabaro@gmail.com"> arturo.espinosabaro@gmail.com </a> 
+       <a href="mailto:aespinosabaro@impan.pl"> aespinosabaro@impan.pl </a>
+    </p>
 
-Institute of Mathematics of the Polish Academy of Sciences <br />
-Jana i Jędrzeja Śniadeckich 8, 00-656 Warszawa, Poland <br />
-<br />
-Email: [arturo.espinosabaro@gmail.com], [aespinosabaro@impan.pl]
+  </section>
 
-## Profiles
-
-[ORCID](https://orcid.org/0000-0003-0184-6211) <br />
-[ResearchGate](https://www.researchgate.net/profile/Arturo-Espinosa-Baro) <br />
-[zbMATH Open](https://zbmath.org/authors/espinosa-baro.arturo) <br />
-[Mathscinet](https://mathscinet.ams.org/mathscinet/MRAuthorID/1251001) <br />
-
-{% endinclude %}
-
+  <section class="profile">
+    <h2>Profile</h2>
+    <ul class="social-links">
+      <li><a href="https://orcid.org/0000-0003-0184-6211" target="_blank">ORCID</a></li>
+      <li><a href="https://www.researchgate.net/profile/Arturo-Espinosa-Baro" target="_blank">ResearchGate</a></li>
+      <li><a href="https://zbmath.org/authors/espinosa-baro.arturo" target="_blank">zbMATH Open</a></li>
+      <li><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1251001" target="_blank">Mathscinet</a></li>
+    </ul>
+  </section>
+</div>
 
 
-[arturo.espinosabaro@gmail.com]: mailto:arturo.espinosabaro@gmail.com
-[aespinosabaro@impan.pl]: mailto:aespinosabaro@impan.pl

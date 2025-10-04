@@ -63,5 +63,34 @@ $desktop:          50em;
 }
 
 .flex-container {
-    display: flex;
+  display: flex;
+  justify-content: space-between; 
+  gap: 20px;
+}
+
+.flex-container section {
+  flex: 1; 
+}
+
+@media (max-width: 768px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+.social-links {
+  list-style: none;     
+  padding: 0;
+  display: flex;
+  gap: 15px;            
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.social-links a:hover {
+  color: #007acc;      
 }
