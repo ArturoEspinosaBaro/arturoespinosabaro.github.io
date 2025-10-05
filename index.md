@@ -12,7 +12,7 @@ permalink: /
 
 
 
-In this site you can find my contact information, a bit about my research, details about my previous funding and also a link to my CV.
+In this site you can find my contact information, a bit about my [research](https://arturoespinosabaro.github.io/research/), some details about my previous [funding](https://arturoespinosabaro.github.io/research/ncn-preludium-21) and also a link to my [CV](https://arturoespinosabaro.github.io/cv/).
 
 <div class="flex-container">
   <section class="contact">
