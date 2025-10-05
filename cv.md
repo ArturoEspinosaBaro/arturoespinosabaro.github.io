@@ -9,7 +9,7 @@ You can download a [PDF version](https://drive.google.com/file/d/1tO-5KyrFajDCSu
 <iframe
   src="../pdfs/CV.pdf"
   title="iframe Example 1"
-  width="840"
+  width="100%"
   height="600">
   <p>Your browser does not support iframes.</p>
 </iframe>
