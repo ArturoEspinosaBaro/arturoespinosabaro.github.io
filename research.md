@@ -22,7 +22,7 @@ pubs:
       url:     "https://link.springer.com/article/10.1007/s00208-024-03033-1"
       doi:     "https://doi.org/10.1007/s00208-024-03033-1"
       arXiv:   "https://arxiv.org/abs/2312.01124"
-      image:   "https://media.springernature.com/w316/springer-static/cover-hires/journal/208?as=webp"
+      image:   "../images/annalen.webp"
 
     - title:   "On the sectional category of subgroup inclusions and Adamson cohomology theory" 
       author:  "with [Zbigniew Błaszczyk](https://www.researchgate.net/profile/Zbigniew-Blaszczyk) and [José Gabriel Carrasquel-Vera](https://www.researchgate.net/profile/Jose-Carrasquel-Vera)."
@@ -32,7 +32,7 @@ pubs:
       url:     "https://www.sciencedirect.com/science/article/pii/S0022404921003005"
       doi:     "https://doi.org/10.1016/j.jpaa.2021.106959"
       arXiv:   "https://arxiv.org/abs/2012.11912"
-      image:   "https://ars.els-cdn.com/content/image/X00224049.jpg"
+      image:   "../images/jpaa.jpg"
 
     - title:   "A cohomological characterization of nilpotent fusion systems"
       author:  "with [Antonio Díaz Ramos](https://sites.google.com/view/antonio-diaz-ramos/) and [Antonio Viruel](https://sites.google.com/view/antonio-viruel/p%C3%A1gina-principal)."
@@ -42,7 +42,7 @@ pubs:
       url:     "https://www.ams.org/journals/proc/2018-146-04/S0002-9939-2017-13884-2/"
       doi:     "https://doi.org/10.1090/proc/13884"
       arXiv:   "https://arxiv.org/abs/1703.07606"
-      image:   "https://www.ams.org/journals/images/proc-cover.png"
+      image:   "../images/pams.jpg"
 
 
 
@@ -54,7 +54,7 @@ prep:
       year:    "2025"
       url:     "https://arxiv.org/abs/2502.06670"
       arXiv:   "https://arxiv.org/abs/2502.06670"
-      image:   "https://upload.wikimedia.org/wikipedia/commons/7/7a/ArXiv_logo_2022.png"
+      image:   "../images/arxiv.png"
 
 thesis:
 
@@ -65,7 +65,7 @@ thesis:
       year:    "2024"
       url:     "https://drive.google.com/file/d/1cxdcvfKKgZBQi1sep8MZNbD2Bg4sRPpM/view?usp=drive_link"
       arXiv:   "https://arxiv.org/abs/2502.06670"
-      image:   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyuH_18BpG2OGrWxQ8pHOFvtiEDtrwbwakA&s"
+      image:   "../images/uam.png"
 ---
 
 My main research interests fit mostly inside the broader field of **Algebraic Topology** (leaning towards the more algebraic side). They include **homological algebra** and (equivariant and relative) **group cohomology**, **fusion systems**, and category-like homotopy invariants, such as **sectional category** and **topological complexity**. 
