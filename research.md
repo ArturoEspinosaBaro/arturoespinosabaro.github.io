@@ -12,7 +12,7 @@ pubs:
       url:     "https://doi.org/10.1017/prm.2024.112"
       doi:     "https://doi.org/10.1017/prm.2024.112"
       arXiv:   "https://arxiv.org/abs/2402.18524"
-      image:   "https://static.cambridge.org/covers/PRM_0_0_0/proceedings_of%20the%20royal%20society%20of%20edinburgh%20section%20a:%20mathematics.jpg?send-full-size-image=true"
+      image:   "../images/prse.jpg"
 
     - title:   "Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions"
       author:  "with [Michael Farber](https://www.qmul.ac.uk/maths/profiles/farberm.html), [Stephan Mescher](https://www.researchgate.net/profile/Stephan-Mescher) and [John Oprea](https://www.researchgate.net/profile/John-Oprea)."
