@@ -8,7 +8,8 @@ Here you can find different resources that I will be updating in time.
 
 ## Some slides
 
-The slides of my PhD dissertation defense. 
+<p class="text-bold text-underline"> The slides of my PhD dissertation defense. </p>
+ 
 
 <iframe
   src="../pdfs/defense-slides.pdf"
@@ -18,11 +19,21 @@ The slides of my PhD dissertation defense.
   <p>Your browser does not support iframes.</p>
 </iframe>
 
-The slides of the recent conference Applied Topology in Poznan 2025. 
+<p class="text-bold text-underline"> The slides of my first participation on the seminar "Analytic and geometric group theory at IMPAN". </p>
+
+<iframe
+  src="../pdfs/IMPAN-talk-I.pdf"
+  title="iframe Example 3"
+  width="100%"
+  height="600">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+<p class="text-bold text-underline"> The slides of the recent conference Applied Topology in Poznan 2025. </p>
 
 <iframe
   src="../pdfs/AT-slides.pdf"
-  title="iframe Example 3"
+  title="iframe Example 4"
   width="100%"
   height="600">
   <p>Your browser does not support iframes.</p>
@@ -32,7 +43,7 @@ Slides presenting the results from my joint paper with M. Farber, S. Mescher and
 
 <iframe
   src="../pdfs/EFMO-talk.pdf"
-  title="iframe Example 4"
+  title="iframe Example 5"
   width="100%"
   height="600">
   <p>Your browser does not support iframes.</p>
@@ -42,8 +53,9 @@ Old slides from my first participation in the Young Topologist Meeting. Much cou
 
 <iframe
   src="../pdfs/fusion-slides.pdf"
-  title="iframe Example 5"
+  title="iframe Example 6"
   width="100%"
   height="600">
   <p>Your browser does not support iframes.</p>
 </iframe>
+
