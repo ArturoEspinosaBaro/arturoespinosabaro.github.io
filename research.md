@@ -75,7 +75,7 @@ Currently, I am also very interested to engage more with **category theory** too
 I was the principal investigator of the Polish National Center of Science grant <a href="https://arturoespinosabaro.github.io/research/ncn-preludium-21">2022/45/N/ST1/02814 PRELUDIUM</a>. 
 
 
-I am new member of the research group of analytic and geometric group theory at IMPAN, led by [Piotr Nowak](https://pnowak.impan.pl/), [check the seminar!](https://sites.google.com/view/group-theory-seminar-at-impan/home).
+I am new member of the research group of analytic and geometric group theory at IMPAN, led by [Piotr Nowak](https://pnowak.impan.pl/). I am co-organising the seminar "Analytic and geometric group theory at IMPAN" with my fellow PostDocs [Mark Pengitore](http://www.pengitore.com/) and [Alexis Marchand](https://alexis-marchand.github.io/), check the seminar [here!](https://sites.google.com/view/group-theory-seminar-at-impan/home).
 
 
 <em> Below you have a list of my different papers, either already published or in submission or preparation. Please notice that, for the published ones, the final version and the current arXiv manuscript may significantly differ. </em>
