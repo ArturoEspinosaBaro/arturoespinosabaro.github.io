@@ -15,7 +15,7 @@ pubs:
       image:   "../images/prse.jpg"
 
     - title:   "Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions"
-      author:  "with [Michael Farber](https://www.qmul.ac.uk/maths/profiles/farberm.html), [Stephan Mescher](https://www.researchgate.net/profile/Stephan-Mescher) and [John Oprea](https://www.researchgate.net/profile/John-Oprea)."
+      author:  "with [Michael Farber](https://www.qmul.ac.uk/maths/profiles/farberm.html), [Stephan Mescher](https://stephanmescher.github.io/) and [John Oprea](https://www.researchgate.net/profile/John-Oprea)."
       journal: "**Mathematische Annalen** 391 Issue 3 4555-4605."
       abstract: "We generalize results from topological robotics on the topological complexity (TC) of aspherical spaces to sectional categories of fibrations inducing subgroup inclusions on the level of fundamental groups. In doing so, we establish new lower bounds on sequential TCs of aspherical spaces as well as the parametrized TC of epimorphisms. Moreover, we generalize the Costa–Farber canonical class for TC to classes for sequential TCs and explore their properties. We combine them with the results on sequential TCs of aspherical spaces to obtain results on spaces that are not necessarily aspherical."
       year:    "2025"
@@ -47,6 +47,15 @@ pubs:
 
 
 prep:
+
+    - title:   "On open covers of aspherical spaces satisfying π_1-constraints and bounded Adamson cohomology"
+      author:  "with [Stephan Mescher](https://stephanmescher.github.io/)."
+      abstract: "Given a topological space X and a family of subgroups F of π_1(X), the F-category of X is given as one less than the cardinality of the smallest cover of X by open subsets whose fundamental groups lie in F. In this article we study F-categories of aspherical spaces and obtain cohomological lower bounds, a maximality result and bounded cohomology classes whose vanishing properties are crucial for determining F-categories. For this purpose, we study the bounded Adamson cohomology of a family of subgroups and discuss universality properties of bounded cohomology classes. We apply our techniques to derive some applications to the study of the monotonicity of F-categories under degree-one maps between manifolds and to provide a counterexample to a question of Capovilla, Löh and Moraschini. "
+      note:    "Submitted"
+      year:    "2026"
+      url:     "https://arxiv.org/abs/2610.07932"
+      arXiv:   "https://arxiv.org/abs/2610.07932"
+      image:   "../images/arxiv.png"
 
     - title:   "Sectional category and sequential topological complexity of aspherical spaces as A-genus"
       abstract: "In this paper we characterize the sectional category of subgroup inclusions and the r-sequential topological complexity of aspherical spaces of a group G in terms of the A-genus in the sense of Clapp-Puppe and Bartsch for a suitable one-element family of G-spaces A, and we discuss some of the consequences of such characterization, including new ideas about notions of category-like invariants with respect to proper actions of groups."
